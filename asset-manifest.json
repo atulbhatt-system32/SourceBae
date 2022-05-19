@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SourceBae/static/css/main.3c331ff7.css",
-    "main.js": "/SourceBae/static/js/main.a3baf8e8.js",
+    "main.css": "/SourceBae/static/css/main.614256e3.css",
+    "main.js": "/SourceBae/static/js/main.39b3d93a.js",
     "static/js/787.3c551420.chunk.js": "/SourceBae/static/js/787.3c551420.chunk.js",
     "static/media/developer.svg": "/SourceBae/static/media/developer.36b40b65a8733284f1e1e78867cecdb7.svg",
     "static/media/Plane.svg": "/SourceBae/static/media/Plane.bce5b58a044cb3dc3c9443d0b37b801c.svg",
@@ -30,12 +30,12 @@
     "static/media/TellPlansCard.svg": "/SourceBae/static/media/TellPlansCard.d82f64819162af2261b16af2ab689393.svg",
     "static/media/star.svg": "/SourceBae/static/media/star.fc85ad8c97288fef6fef84cb8ea17f84.svg",
     "static/media/hire_agency_suitcase.svg": "/SourceBae/static/media/hire_agency_suitcase.655594f7f90e6cef17af0a14318c5b0e.svg",
-    "main.3c331ff7.css.map": "/SourceBae/static/css/main.3c331ff7.css.map",
-    "main.a3baf8e8.js.map": "/SourceBae/static/js/main.a3baf8e8.js.map",
+    "main.614256e3.css.map": "/SourceBae/static/css/main.614256e3.css.map",
+    "main.39b3d93a.js.map": "/SourceBae/static/js/main.39b3d93a.js.map",
     "787.3c551420.chunk.js.map": "/SourceBae/static/js/787.3c551420.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c331ff7.css",
-    "static/js/main.a3baf8e8.js"
+    "static/css/main.614256e3.css",
+    "static/js/main.39b3d93a.js"
   ]
 }
